@@ -41,7 +41,7 @@ extra_javascript:
 # file tree structure
 nav:
   - Home: index.md
-  - About: 01_non-lin-diff-analyticals.md
+  - 非線形拡散: 01_non-lin-diff-analyticals.md
   - em2d.f  : 02_em2d.md
   - init.f : 03_init.md
   - biriv.f : 04_bitriv_f.md
